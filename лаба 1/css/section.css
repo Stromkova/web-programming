@@ -1,12 +1,15 @@
 aside {
+  width: 1440px;
+  margin: 0 auto;
   font-family: "Poppins", sans-serif;
   background-color: #f6f6f6;
   padding-top: 118px;
-  width: 100%;
   display: flex;
   justify-content: center;
   gap: 68px;
   padding-bottom: 174px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .first-content-section {
