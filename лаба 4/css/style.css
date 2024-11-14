@@ -1,0 +1,118 @@
+@import url("normalize.css");
+
+body {
+  display: flex;
+  justify-content: center;
+  background: black;
+}
+
+main {
+  font-family: "Inter", sans-serif;
+  width: 416px;
+  height: 524px;
+  background: #ffffff;
+  border-radius: 16px;
+}
+
+.top-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.left-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 352px;
+  height: 40px;
+  padding: 0px;
+}
+
+#left-avatar {
+  margin-right: 8px;
+}
+
+.right-body {
+  display: flex;
+  padding: 8px;
+}
+
+.center-body {
+  width: 416px;
+  height: 350px;
+}
+
+.main-text-body,
+.left-text-body {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 304px;
+  height: 19px;
+}
+
+.main-body {
+  padding: 8px 16px;
+}
+
+.main-text-body {
+  width: 384px;
+  height: 19px;
+}
+
+.main-text-body-name,
+.left-text-body-name {
+  font-weight: bold;
+  font-size: 16px;
+  color: #0f1419;
+  line-height: 19px;
+  margin-right: 6px;
+}
+
+.main-text-body-nickname,
+.left-text-body-nickname {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #536471;
+}
+
+.main-text-body-comm {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #0f1419;
+}
+
+.bottom-body {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 16px;
+  gap: 8px;
+  width: 416px;
+  height: 56px;
+  border-top: 1px solid #EFF3F4;
+}
+
+.left-bottom-body,
+.center-bottom-body,
+.right-bottom-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  width: 52px;
+  height: 24px;
+}
+
+.right-bottom-body {
+  display: flex;
+  justify-content: end;
+}
