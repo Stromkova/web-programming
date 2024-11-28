@@ -1,0 +1,18 @@
+.background-container {
+  font-family: "Poppins", sans-serif;
+  width: 1440px;
+  height: 900px;
+  background: #ffffff;
+  color: #000000;
+}
+
+.header-logo {
+  width: 100px;
+  height: 30px;
+  padding-left: 42px;
+  padding-top: 31px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}

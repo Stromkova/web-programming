@@ -1,0 +1,87 @@
+@media screen and (max-width: 1200px) {
+  .background-container {
+    width: 375px;
+    height: 876px;
+    padding-top: 18px;
+  }
+
+  .header-logo {
+    width: 90px;
+    height: 27px;
+    padding-left: 0px;
+    padding-top: 0px;
+    font-size: 18px;
+    line-height: 27px;
+    margin-top: 0px;
+    margin-left: 26px;
+  }
+
+  .main-form {
+    width: 326px;
+    height: 757px;
+    margin-left: 26px;
+    margin-top: 35px;
+    margin-bottom: 0px;
+    padding: 25px 24px 21px 22px;
+    padding: 0px;
+  }
+
+  .main-form-wel {
+    font-size: 19px;
+    line-height: 28.5px;
+    margin-top: 25px;
+    margin-left: 23px;
+  }
+
+  .main-form-sing {
+    margin-bottom: 31px;
+    margin-left: 23px;
+  }
+
+  .main-form-singup {
+    padding-bottom: 3px;
+    font-size: 25px;
+    line-height: 37px;
+  }
+
+  .main-form-reg {
+    margin-left: 23px;
+  }
+
+  .main-form-block-one,
+  .main-form-block-two {
+    padding: 0 0 0 17px;
+    width: 260px;
+  }
+
+  .image {
+    width: 20px;
+    height: 18px;
+    left: -38px;
+  }
+
+  .main-form-btn {
+    margin-left: 23px;
+    width: 279px;
+    margin-top: 31px;
+  }
+
+  .main-form-que {
+    padding-left: 53px;
+    padding-top: 30px;
+  }
+
+  .que {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .reg {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .right-image {
+    display: none;
+  }
+}
