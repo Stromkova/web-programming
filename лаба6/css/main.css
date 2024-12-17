@@ -1,0 +1,210 @@
+.top-line {
+  display: flex;
+  width: 100%;
+  height: 1px;
+  background: #3b3b3b;
+}
+
+main {
+  background: #2b2b2b;
+}
+
+.main-top {
+  background: #2b2b2b;
+  color: #ffffff;
+  font-family: "Work Sans", serif;
+  padding-left: 115px;
+  padding-right: 115px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.main-top-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.main-top-left {
+  display: flex;
+  gap: 16px;
+  padding: 14px 202px;
+}
+
+.main-top-right {
+  display: flex;
+  gap: 16px;
+  padding: 14px 173px;
+}
+
+.main-top-left {
+  border-bottom: 2px solid #858584;
+}
+
+.main-top-text,
+.main-top-text2 {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.main-top-text2 {
+  color: #858584;
+}
+
+.main-top-num {
+  font-family: "Space Mono", serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.main-top-oval {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 32px;
+  background: #858584;
+  /* padding: 5px 10px; */
+  border-radius: 20px;
+}
+
+.main-oval {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 32px;
+  background: #3b3b3b;
+  /* padding: 5px 10px; */
+  border-radius: 20px;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  background: #3b3b3b;
+  /* height: 2106px; */
+  padding: 60px 115px 0 115px;
+}
+
+.main-content-card {
+  /* display: flex;
+  flex-direction: column; */
+  /* align-items: center; */
+  background: #2b2b2b;
+  width: 330px;
+  height: 469px;
+  border-radius: 20px;
+  color: white;
+}
+
+.main-content-card-img {
+  width: 330px;
+  height: 295px;
+}
+
+.main-content-card-part {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 30px 25px 30px;
+}
+
+.main-content-card-center {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding-bottom: 25px;
+}
+
+.main-content-card-text {
+  font-family: "Work Sans", serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.main-content-card-prof {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+#Avatar_boy,
+#Avatar_Fox,
+#Avatar_Woman,
+#Avatar_Robot2,
+#Avatar_Girl,
+#Avatar_man1,
+#Avatar_glasses,
+#Avatar_Woman_space,
+#Avatar_Monkey,
+#Avatar_Dog {
+  width: 24px;
+  height: 24px;
+}
+
+.main-content-card-name {
+  font-family: "Space Mono", serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.main-content-card-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.main-content-card-bottom-left,
+.main-content-card-bottom-right {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-family: "Space Mono", serif;
+}
+
+.main-content-card-bottom-right {
+  display: flex;
+  align-items: end;
+}
+
+.text {
+  color: #858584;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.num {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.main-content-second {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  background: #3b3b3b;
+  padding: 30px 115px 0 115px;
+}
+
+.main-content-bottom {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  background: #3b3b3b;
+  padding: 30px 115px 80px 115px;
+}
+
+.main-content-mobile {
+  display: none;
+}
+
+/* .bottom-line {
+  display: flex;
+  width: 100%;
+  height: 2px;
+  background-color: #2B2B2B;
+} */

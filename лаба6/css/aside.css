@@ -1,0 +1,23 @@
+.aside-text {
+  font-family: "Work Sans", serif;
+  background: #2b2b2b;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 80px 115px;
+}
+
+.aside-text-one,
+.aside-text-two {
+  color: white;
+}
+
+.aside-text-one {
+  font-weight: 600;
+  font-size: 51px;
+}
+
+.aside-text-two {
+  font-weight: 400;
+  font-size: 22px;
+}

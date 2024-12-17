@@ -1,0 +1,272 @@
+@media screen and (max-width: 900px) {
+  body {
+    width: 375px;
+  }
+
+  header {
+    padding: 15px 30px;
+  }
+
+  .header-logo {
+    padding-right: 108.44px;
+  }
+
+  #Logo {
+    width: 182.56px;
+    height: 24px;
+  }
+
+  nav {
+    display: none;
+  }
+
+  .header-btn {
+    display: none;
+  }
+
+  .header-menu {
+    display: flex;
+    width: 24px;
+    height: 24px;
+  }
+
+  .aside-text {
+    padding: 40px 30px;
+  }
+
+  .aside-text-one {
+    font-size: 28px;
+  }
+
+  .aside-text-two {
+    font-size: 16px;
+  }
+
+  .main-top {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .main-top-left {
+    padding: 19px 59px;
+  }
+
+  .main-top-right {
+    padding: 19px 34px;
+  }
+
+  .main-top-text,
+  .main-top-text2 {
+    font-size: 16px;
+  }
+
+  .main-top-oval,
+  .main-oval {
+    display: none;
+  }
+
+  .main-content,
+  .main-content-second,
+  .main-content-bottom {
+    display: none;
+  }
+
+  .main-content-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background: #3b3b3b;
+    padding: 40px 30px 40px 30px;
+  }
+
+  .main-content-card-mobile {
+    background: #2b2b2b;
+    border-radius: 20px;
+    color: white;
+    width: 315px;
+    height: 402px;
+    border-radius: 20px;
+  }
+
+  .main-content-card-mobile-img {
+    width: 315px;
+    height: 238px;
+  }
+
+  .main-content-card-part-mobile {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 25px 20px;
+  }
+
+  .main-content-card-center-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-bottom: 25px;
+  }
+
+  .main-content-card-text-mobile {
+    font-family: "Work Sans", serif;
+    font-size: 22px;
+    font-weight: 600;
+  }
+
+  .main-content-card-prof-mobile {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+  }
+
+  #Avatar_boy,
+  #Avatar_Fox,
+  #Avatar_Woman,
+  #Avatar_Robot {
+    width: 24px;
+    height: 24px;
+  }
+
+  .main-content-card-name-mobile {
+    font-family: "Space Mono", serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .main-content-card-bottom-mobile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .main-content-card-bottom-left-mobile,
+  .main-content-card-bottom-right-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: "Space Mono", serif;
+  }
+
+  .main-content-card-bottom-right-mobile {
+    display: flex;
+    align-items: end;
+  }
+
+  .text-mobile {
+    color: #858584;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .num-mobile {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 30px;
+  }
+
+  .footer-left-part {
+    padding-bottom: 30px;
+    width: 315px;
+  }
+
+  .footer-logo {
+    padding-bottom: 20px;
+  }
+
+  .footer-left {
+    display: none;
+  }
+
+  .footer-left-media {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #cccccc;
+    font-family: "Work Sans", serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 15px;
+  }
+
+  .footer-center {
+    padding-top: 0;
+    width: 315px;
+  }
+
+  .footer-center-text-one {
+    padding-bottom: 20px;
+  }
+
+  .footer-right-top {
+    padding-top: 30px;
+    width: 315px;
+  }
+
+  .footer-right {
+    padding-bottom: 30px;
+    gap: 0;
+  }
+
+  .subscribe-button {
+    display: none;
+  }
+
+  .email-input {
+    display: none;
+  }
+
+  .footer-subscribe-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .email-input-mobile {
+    padding: 12px 20px;
+    font-family: "Work Sans", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #2b2b2b;
+    background: white;
+    border: 1px solid #858584;
+    border-radius: 20px;
+    outline: none;
+  }
+
+  .subscribe-button-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    width: 315px;
+    padding: 12px 102px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    background: #a259ff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  #EnvelopeSimple {
+    width: 20px;
+    height: 20px;
+  }
+
+  .footer-line-background {
+    padding-left: 30px;
+  }
+
+  .footer-line {
+    width: 315px;
+  }
+
+  .footer-bottom {
+    padding: 20px 0 40px 30px;
+  }
+}
